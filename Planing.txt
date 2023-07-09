@@ -1,0 +1,3 @@
+User can se list of hotel
+User can book a hotel
+User can get a reservation ticket
